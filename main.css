@@ -1,0 +1,36 @@
+body {
+				font-size: 80%;
+				font-family: "Roboto", Courier, monospace;
+				letter-spacing: 0.15em;	
+				background-color: white;}
+			#page {
+				max-width: 940px;
+				min-width: 720px;
+				margin: 10px auto 10px auto;
+				padding: 20px;
+			
+				background-color: #ffffff;}
+
+			#logo {
+				margin: 10px auto 25px auto;
+				text-align: center;}
+
+			.flow{width: 200px;
+				height: 200px;
+				}
+
+			.container{padding: 10px;
+				text-align: center;}
+
+			.footer{text-align: center;
+				font-size: 10px;
+				padding-top: 40px;}
+
+	
+
+
+			.submit h2{text-align: center;
+				margin: 50px 0px 20px 0px;
+				font-family: Arial;}
+			.submit form{text-align: center;}
+	
